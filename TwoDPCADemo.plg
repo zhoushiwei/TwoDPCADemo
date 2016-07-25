@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: TwoDPCADemo - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP389.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /D "_AFXDLL" /D "MSVC" /D "MSWIND" /Fp"..\..\Intermediate\2DPCA\Release/TwoDPCADemo.pch" /Yu"stdafx.h" /Fo"..\..\Intermediate\2DPCA\Release/" /Fd"..\..\Intermediate\2DPCA\Release/" /FD /c 
+"D:\课程相关资料\模式识别技术\实验\Project\Source\TwoDPCADemo\Bmp8.cpp"
+"D:\课程相关资料\模式识别技术\实验\Project\Source\TwoDPCADemo\TPCA.cpp"
+"D:\课程相关资料\模式识别技术\实验\Project\Source\TwoDPCADemo\TwoDPCADemo.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP389.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP38A.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"..\..\Bin\2DPCA\Release/TwoDPCADemo.pdb" /machine:I386 /out:"..\..\Bin\2DPCA\Release/TwoDPCADemo.exe" 
+"\课程相关资料\模式识别技术\实验\Project\Intermediate\2DPCA\Release\Bmp8.obj"
+"\课程相关资料\模式识别技术\实验\Project\Intermediate\2DPCA\Release\Matrix.obj"
+"\课程相关资料\模式识别技术\实验\Project\Intermediate\2DPCA\Release\StdAfx.obj"
+"\课程相关资料\模式识别技术\实验\Project\Intermediate\2DPCA\Release\TPCA.obj"
+"\课程相关资料\模式识别技术\实验\Project\Intermediate\2DPCA\Release\TwoDPCADemo.obj"
+"\课程相关资料\模式识别技术\实验\Project\Intermediate\2DPCA\Release\TwoDPCADemo.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP38A.tmp"
+<h3>Output Window</h3>
+Compiling...
+Bmp8.cpp
+TPCA.cpp
+TwoDPCADemo.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+TwoDPCADemo.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
